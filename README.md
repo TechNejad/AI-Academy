@@ -1,6 +1,6 @@
 # 🎮 **AI Academy** 
 
-### [**Try Our Live Game Demo Here**](https://ai-academy-game.netlify.app/)
+### [**LIVE GAME DEMO**](https://ai-academy-game.netlify.app/)
 
 ---
 
